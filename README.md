@@ -18,7 +18,7 @@ Building this project generates a DLL file that injects into GTA:SA using a comp
 **Prerequisites:**
 
 * Visual Studio 2022/20 (Community Edition is sufficient)
-* CMake {DEPRECATED}
+* CMake {DEPRECATED}, i mean who uses CMake anyway? lol
 
 **Development Environment Setup:**
 
