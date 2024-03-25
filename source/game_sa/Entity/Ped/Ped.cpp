@@ -182,16 +182,7 @@ void CPed::InjectHooks() {
     RH_ScopedVMTInstall(SetMoveAnim, 0x5E4A00);
     RH_ScopedVMTInstall(Save, 0x5D5730);
     RH_ScopedVMTInstall(Load, 0x5D4640);
-
     RH_ScopedGlobalInstall(SetPedAtomicVisibilityCB, 0x5F0060);
-
-    bUpdatePermanently = 0 //breaks the time scale if slow-motion cheat code is activated (unresolved)
-
-    fSpecColor_R = 0.15
-    fSpecColor_G = 0.15
-    fSpecColor_B = 0.15
-
-    iSpecPower = 40 //meduim intensity (aquirred from the mobile "remastered" port)
 }
 
 // 0x5E8030
