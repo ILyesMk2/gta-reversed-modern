@@ -67,11 +67,11 @@ For ideas on where to contribute, see this discussion: [https://github.com/gta-r
 
 ### Credits
 
-**ILyesMk2 who implemented most of the Dev tools from GTA's recent src code leak... me :) !**
+**ILyesMk2 who implemented most of the Dev tools from GTA 5's recent src code leak... me :) !**
 
 * Original project contributors ([https://github.com/gta-reversed](https://github.com/gta-reversed))
 * Contributors to gtaforums.com discussions ([https://gtaforums.com/topic/194199-documenting-gta-sa-memory-addresses/page/49/](https://gtaforums.com/topic/194199-documenting-gta-sa-memory-addresses/page/49/))
 * re3 team ([https://github.com/halpz/re3](https://github.com/halpz/re3))
 * Everyone who has contributed to GTA:SA reverse engineering
 
-* currently waiting pullrequest approval from the RE3 team
+**currently waiting pullrequest approval from the RE3 team**
